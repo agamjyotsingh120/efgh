@@ -1,0 +1,32 @@
+body{
+    background:linear-gradient(to right ,#12c2e9,#c471ed,#f64f59);
+    text-align:center;
+    height:100%;
+    margin:0;
+}
+.header{
+    font-family:Playfair Display;
+    font-size:35px;
+ 
+}
+
+.dropdown{
+    position:relative;
+    display:inline-block;
+    height:30px;
+    width:200px;
+    background-color:#12c2e9;
+    font-family:Playfair Display;
+    font-size:20;
+    box-shadow: black;
+    margin-left:30%;
+    text-align:center;
+    }
+
+.side-text{
+    float:left;
+        font-family:Playfair Display;
+        margin-left: 10%;
+    }
+ 
+    
